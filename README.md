@@ -220,3 +220,27 @@ After clicking, a new page will open to download or print the bank slip.
 After clicking.
 
 ![](.github/images/payment_datail.png)
+
+
+For orders created with Payment Link, there will be an option to Generate the Payment Link in the order details page
+
+![](https://github.com/GMagento/belluno/assets/120131818/814e9643-29b7-4719-925d-56b4cf0bc00c)
+
+The payment link will be sent to the customer email right after the generation.
+
+This option can be used as a quote order, since it will be available on the front-end as well. And after accepting the quote, you can use the generate option.
+
+
+- On the **admin page:**
+
+  - In order, view (*`payment link`*). A **button** was also added for consulting the payment link after generation.
+
+![](https://github.com/GMagento/belluno/assets/120131818/a3201b64-109d-4f2a-acad-875eadcda4c7)
+
+
+- On the **admin page:**
+
+  - In order, view (*`pix`*). A **QR Code** will be visible under the payment details.
+
+![](https://github.com/GMagento/belluno/assets/120131818/eecf39e6-4106-4faa-aff3-3faaa102cab0)
+
