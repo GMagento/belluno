@@ -237,6 +237,7 @@ This option can be used as a quote order, since it will be available on the fron
 
 ![](https://github.com/GMagento/belluno/assets/120131818/a3201b64-109d-4f2a-acad-875eadcda4c7)
 
+After clicking, you will be sent to the payment link in a Belluno page, for the payment method selection.
 
 - On the **admin page:**
 
