@@ -185,8 +185,6 @@ So you will have five configurations. *Follow the next steps to understand.*
 
 - **Sort Order:** this option lets you select an order that the method will appear at checkout. The smaller will appear first.
 
-![](.github/images/tax-vat.png)
-
 #### 7 - General Configure
 
 - **Show Telephone:** `Stores` -> `Configuration` -> `Customers` -> `Customer` `Configuration` -> `Show Telephone`. **REQUIRED**.
